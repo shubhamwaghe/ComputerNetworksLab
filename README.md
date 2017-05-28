@@ -8,5 +8,5 @@
 
 ### Inclusions
 * TCP - Java
-* TCP - Multiclient Server - C
+* TCP - MultiserverClient - C
 * UDP - C
